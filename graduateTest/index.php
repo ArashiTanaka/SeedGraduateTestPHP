@@ -35,6 +35,5 @@ echo "<hr>";
 
 //question3
 echo "Question3". "<br>";
-echo "Question3". "<br>";
 
 ?>
