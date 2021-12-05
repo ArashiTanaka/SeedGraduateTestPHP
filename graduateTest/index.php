@@ -46,8 +46,8 @@ $third = array($Number3);
 //3次元
 $ebaSchool = array($first, $second, $third);
 //2次元
-$nakaku = array($EBA);
+$nakaku = array($ebaSchool);
 //1次元
 $hiroshima = array($nakaku);
-echo $hirishima[0][0][2][0][0];
+echo $hiroshima[0][0][2][0][0];
 ?>
