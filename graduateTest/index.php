@@ -35,5 +35,19 @@ echo "<hr>";
 
 //question3
 echo "Question3". "<br>";
-
+//5次元
+$Number1 = array(210);
+$Number2 = array(200);
+$Number3 = array(230);
+//4次元
+$first = array($Number1);
+$second = array($Number2);
+$third = array($Number3);
+//3次元
+$ebaSchool = array($first, $second, $third);
+//2次元
+$nakaku = array($EBA);
+//1次元
+$hiroshima = array($nakaku);
+echo $hirishima[0][0][2][0][0];
 ?>
